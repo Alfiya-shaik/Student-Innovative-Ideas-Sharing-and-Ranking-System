@@ -78,14 +78,6 @@ This project is developed for academic purposes. Suggestions and improvements ar
 
 ---
 
-## **Team Members**
-
-- **Samanvitha**
-- **Alfiya**
-- **Neelaveni**
-- **Ankitha**
-
----
 
 ## **License**
 
